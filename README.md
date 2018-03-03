@@ -1,2 +1,2 @@
 # hello-world
-CS-50 sTART
+CS-50 Start
